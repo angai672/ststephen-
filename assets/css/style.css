@@ -156,3 +156,28 @@ footer ul.quick-links li{
     box-shadow: 10px 10px red;
     text-align: center;
 }
+.ourhistory{ 
+    background-image: url(../images/2.jpg);
+    padding: 20px;
+    color: white;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.our-history img{
+    box-shadow:10px 10px red;
+}
+.ourvalues i{
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    color: red;
+    padding: 20px;
+    border-radius:40px;
+    transition: 0.2s linear;
+    font-size: 32px;
+    text-align: center;
+}
+.ourvalues i:hover{
+    border-radius: 50px;
+}
